@@ -10,22 +10,19 @@ The data used for this project is the “capstone-project.xlsx” containing det
 
 ### Tools
 
-- Microsoft Excel: Data Cleaning
-- MySQL: Exploratory data analysis
+- MySQL: Data formatting and Exploratory data analysis
 - Microsoft Power BI: Data visualization
 
-### Data Cleaning
+### Data formatting
 
 The following tasks were performed:
-- Data loading and inspection
-- Data formatting in preparation for EDA
-- The formatted data is saved on another sheet of the dataset on the same document and labeled "Capstone duplicate"
+- Data loading into MySQL
+- Data formatting was done for the date and time columns of the dataset to present them in formats recognizable by MySQL in preparation for EDA
 
 ### Exploratory Data Analysis (EDA)
 
-1. The data was loaded into MySQL
-2. Data formatting was done for the date column of the dataset to present it in date format recognizable by MySQL
-3. Exploratory data analysis was done to answer key questions which include:
+Exploratory data analysis was done to answer key questions which include:
+
    - What is the total price of pizza sold?
    - How many quantities of pizza was sold?
    - What pizza size and category made the highest sales?
@@ -46,5 +43,5 @@ Power BI file is labelled "Capstone_b_s" and attached.
 
 ### Recommendation
 
-1. More resources should be directed towards prodcution and sales of pizzas in the Large (L) size
-2. 2. Production of pizzas in the Extra-large (XL) size can be be suspended and it's resources channelled to a more prodcutive pizza size.
+1. More resources should be directed towards prodcution and sales of pizzas of Large (L) size
+2. Production of pizzas of the Extra-large (XL) size can be be suspended and it's resources channelled to a more prodcutive pizza size.
