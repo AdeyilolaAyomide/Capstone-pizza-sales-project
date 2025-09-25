@@ -6,7 +6,7 @@ This data analysis projects aims identify relevant sales trends and generate rec
 
 ### Data Source
 
-The data used for this project is the “capstone-project.xlsx” containing detailed information about the pizza sales
+The data used for this project is the “capstone project.xlsx” containing detailed information about the pizza sales
 
 ### Tools
 
@@ -39,7 +39,7 @@ Exploratory data analysis was done to answer key questions which include:
 ### Visualization
 
 Power BI was connected to SQL server and the tables generated during analysis was used to create a "Capstone pizza sales analysis" dashboard.
-Power BI file is labelled "Capstone_b_s" and attached.
+Power BI file is labelled "Capstone_b_s.pbix" and attached.
 
 ### Recommendation
 
