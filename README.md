@@ -40,7 +40,7 @@ Exploratory data analysis was done to answer key questions which include:
 ### Visualization
 
 Power BI was connected to SQL server and the tables generated during analysis was used to create a "Capstone pizza sales analysis" dashboard.
-Find [Power_BI_dashboard](https://github.com/AdeyilolaAyomide/Capstone-pizza-sales-project/blob/581ab0afacab62b2548d540a7880789e572c6c94/Capstone_b_s.pbix)
+Find [Power_BI_dashboard](https://github.com/AdeyilolaAyomide/Capstone-pizza-sales-project/blob/581ab0afacab62b2548d540a7880789e572c6c94/Capstone_b_s.pbix). Find [pdf_version](https://github.com/AdeyilolaAyomide/Capstone-pizza-sales-project/blob/5c3927c8b960602ba14a40150c88c3eb6e8978bf/Capstone_b_s.pdf)
 
 ### Recommendation
 
