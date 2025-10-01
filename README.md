@@ -27,21 +27,22 @@ Exploratory data analysis was done to answer key questions which include:
    - How many quantities of pizza was sold?
    - What pizza size and category made the highest sales?
 
- [Download_sql_script](
+ [Find_sql_script](https://github.com/AdeyilolaAyomide/Capstone-pizza-sales-project/blob/581ab0afacab62b2548d540a7880789e572c6c94/Capstone.sql)
  
 ### Results
 
 - The total price of pizza sold during the analysed period is $8.50K
 - The total quantity of pizza sold during the analysed period is 509 pieces
-- Large (L) pizza size made the highest sales ($4.39K) while "Classic" pizza category made the highest sales ($2.35K)  
-- There is a strong association between sales and pizza size with the large pizzas making over 50% of the entire sales
+- Based on Size, Large (L) pizza made the highest sales ($4.39K/51.6%)
+- Based on category, "Classic" pizza made the highest sales ($2.35K/27.6%)  
+- There is a strong association between sales and pizza size with the large (L) pizzas making 51.6% of the entire sales
 
 ### Visualization
 
 Power BI was connected to SQL server and the tables generated during analysis was used to create a "Capstone pizza sales analysis" dashboard.
-Power BI file is labelled "Capstone_b_s.pbix" and attached.
+Find [Power_BI_dashboard](https://github.com/AdeyilolaAyomide/Capstone-pizza-sales-project/blob/581ab0afacab62b2548d540a7880789e572c6c94/Capstone_b_s.pbix)
 
 ### Recommendation
 
-1. More resources should be directed towards prodcution and sales of pizzas of Large (L) size
+1. The firm should direct more resources towards prodcution and sales of pizzas of Large (L) size
 2. Production of pizzas of the Extra-large (XL) size can be be suspended and it's resources channelled to a more prodcutive pizza size.
