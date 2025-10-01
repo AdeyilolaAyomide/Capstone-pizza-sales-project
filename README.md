@@ -6,7 +6,7 @@ This data analysis projects aims identify relevant sales trends and generate rec
 
 ### Data Source
 
-The data used for this project is the “capstone project.xlsx” containing detailed information about the pizza sales
+[Download_here](https://github.com/AdeyilolaAyomide/Capstone-pizza-sales-project/blob/88420bf7e0c0cbd6707af3a483351527470f91f3/Capstone%20Project.xlsx)
 
 ### Tools
 
@@ -27,7 +27,7 @@ Exploratory data analysis was done to answer key questions which include:
    - How many quantities of pizza was sold?
    - What pizza size and category made the highest sales?
 
- The sql script "capstone.sql" is attached 
+ [Download_sql_script](
  
 ### Results
 
