@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This data analysis projects aims identify relevant sales trends and generate recommendations for a better sales outcome.
+This data analysis projects aims to outline sales and revenue Key performance indicators and identify relevant sales trends to generate recommendations for a better sales outcome.
 
 ### Data Source
 
